@@ -1,4 +1,4 @@
-# Git Branching Score Keeper
+git# Git Branching Score Keeper
 
 This exercise is intended to help practice git branching and merging using the CLI (terminal).
 
